@@ -8,6 +8,7 @@ else if(marks>=80 && marks<89){
 else if(marks>=70 && marks<79){
     alert("C")
 }
+
 else{
-    alert("fail")
+    alert("failed")
 }
