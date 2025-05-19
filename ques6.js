@@ -12,3 +12,5 @@ else if(marks>=70 && marks<79){
 else{
     alert("failed")
 }
+console.log("marks are",marks);
+// if(marks>=90 ){
